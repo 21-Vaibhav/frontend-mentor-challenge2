@@ -35,6 +35,8 @@ p{
     font-weight: 400;
     text-align: center;
     color: hsl(220, 15%, 55%);
+    max-width: 80%;
+    justify-content: center;
 
 }
 
@@ -44,4 +46,6 @@ h3{
     text-align: center;
     margin-bottom: 1%;
     color: hsl(218, 44%, 22%);
+    max-width: 90%;
+    justify-content: space-between;
 }
